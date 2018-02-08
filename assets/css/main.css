@@ -290,7 +290,7 @@ ul li {
 }
 
 .navbar-solid {
-  background-color: #000 !important;
+  background-color: rgb(0, 0, 0) !important;
   padding: 0 !important;
   -webkit-transition: all 0.2s linear 0s;
           transition: all 0.2s linear 0s;
@@ -322,7 +322,8 @@ ul li {
   min-height: 100vh;
   position: relative;
   text-align: center;
-  background: url(../images/backgrounds/Header.jpg) no-repeat center center/cover;
+  background: url(../images/backgrounds/incuspaze_header.jpg) no-repeat center/cover;
+  background-size: cover;
   display: table;
 }
 .site-header::before {
@@ -332,7 +333,7 @@ ul li {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.3);
 }
 .site-header .intro {
   color: #fff;
