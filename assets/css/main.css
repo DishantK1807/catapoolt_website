@@ -42,6 +42,8 @@ ul li{font-weight:700;margin-bottom:10px;}
 .btn-white:hover, .btn-white:focus{color:#000;background-color:#fff;}
 .btn-black{color:#fff;background-color:#000;}
 .btn-black:hover, .btn-black:focus{color:#fff;background-color:#000;}
+.btn-blue{color:#fff;background-color:#4268f4;}
+.btn-blue:hover, .btn-blue:focus{color:#fff;background-color:#4268f4;}
 .bg-image, .bg-image-1, .bg-image-2, .bg-image-3, .bg-image-4{position:relative;}
 .bg-image::before, .bg-image-1::before, .bg-image-2::before, .bg-image-3::before, .bg-image-4::before{content:"";position:absolute;top:0;right:0;bottom:0;left:0;}
 .bg-image-1{background:url(../images/backgrounds/bg-1.jpg) no-repeat center center/cover;}
